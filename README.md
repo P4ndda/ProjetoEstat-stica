@@ -1,8 +1,9 @@
 <p align="center">
 <h1>ESTATÍSTICA</h1>
-<a href= "#sobre">Sobre</a> -
-<a href= "#Processo">Processo</a> -
-<a href= "#Requisitos">Requisitos</a>
+<a href= "#sobre">Sobre</a>
+<a href= "#Processo">Processo</a>
+<a href= "#Requisitos
+">Requisitos</a>
 </p>
 
 Olá seja bem vindo!!, esse é o meu mais novo projeto baseado no curso de JS apresentado pelo canal (curso em video). No repositorio de hoje foi necessario um breve conhecimento //sobre// estatística e logica de programa;cão. Seria um prazer ter sua companhia ao longo de toda a apresentação do processo necessario para desenvolvimento desse projeto, é de suma importancia que esse blog seja leito com atenção, para que possa ser aprensentado de forma coerente todos os tipos de dados e //pré-requisitos// necessarios para o seu entendimento.
@@ -36,14 +37,12 @@ podem extrair dados como á media aritmetica, os maiores e menores valores acres
 ```
 Tenha instalados no seu computador:
 ```
-VS CODE
-<img> <br>![13-131015_visual-studio-code-logo-hd-png-download](https://user-images.githubusercontent.com/96143899/153087509-225db237-36f2-4b24-b287-6754d7195021.png) 
+
+<a href="https://code.visualstudio.com//" target="_blank"><img src="https://user-images.githubusercontent.com/96143899/153087509-225db237-36f2-4b24-b287-6754d7195021.png" target="_blank"></a>- Visual Studio Code
+
+<a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank"><img src="https://user-images.githubusercontent.com/96143899/156283144-03fd2db9-f490-444a-b11a-07067c0a7225.png" target="_blank"></a>- Google Chrome (ou qualquer outro navegador compativel)
 
 
-src= "(https://user-images.githubusercontent.com/96143899/156082371-d93630e3-74be-48fe-a405-cd791449de73.png)" 
-</img>
-
-<img align="center" alt="1VSo" height="90" style="border-radius:10px;" src="https://user-images.githubusercontent.com/96143899/156082371-d93630e3-74be-48fe-a405-cd791449de73.png">
 
 <p aling="center" >⚠️EM PROCESSO DE CONSTRUÇÃO⚠️</p>
 
