@@ -1,12 +1,7 @@
-<p align="center">
-<h1>ESTATÍSTICA</h1>
-<a href= "#sobre">Sobre</a>
-<a href= "#Processo">Processo</a>
-<a href= "#Requisitos
-">Requisitos</a>
-</p>
 
-Olá seja bem vindo!!, esse é o meu mais novo projeto baseado no curso de JS apresentado pelo canal (curso em video). No repositorio de hoje foi necessario um breve conhecimento //sobre// estatística e logica de programa;cão. Seria um prazer ter sua companhia ao longo de toda a apresentação do processo necessario para desenvolvimento desse projeto, é de suma importancia que esse blog seja leito com atenção, para que possa ser aprensentado de forma coerente todos os tipos de dados e //pré-requisitos// necessarios para o seu entendimento.
+<h2>ESTATÍSTICA</h2>
+
+ Olá seja bem vindo!!, esse é o meu mais novo projeto baseado no curso de JS apresentado pelo canal (curso em video). No repositório de hoje foi necessário um breve conhecimento <a href= "#sobre">sobre</a> estatística e lógica de programação. Seria um prazer ter sua companhia ao longo de toda a apresentação do <a href="#processo">processo</a> necessário para desenvolvimento desse projeto, é de suma importância que esse blog seja lido com atenção, para que possa ser apresentado de forma clara todos os tipos de dados e <a href="#requisitos">requisitos</a> necessários para o seu entendimento.
 
 # Sobre
 <p>
@@ -15,17 +10,16 @@ Olá seja bem vindo!!, esse é o meu mais novo projeto baseado no curso de JS ap
 </p>
 
 <p align="center">
- Estátistica é a junção de metodos que podem ser utilizados em inumeras aréas do conhecimento humano, sendo a mais comum a aritmetrica q ao contar com os metodos estatisticos 
-podem extrair dados como á media aritmetica, os maiores e menores valores acrescentados e a soma dos dados. Baseado nesses metodos se teve inicio a tematização do site.
+ Estatística é a junção de métodos que podem ser utilizados em inúmeras áreas do conhecimento humano, sendo a mais comum a aritmética que ao contar com os métodos estatísticos 
+Podem extrair dados como a média aritmética, os maiores e menores valores acrescentados e a soma dos dados. Baseado nesses métodos se teve início a tematização deste site.
 </p>
 
 <p><br></p>
 
  # Processo
   <p aling="right">  
- Logo no inicio da programação em JS desse projeto ja surgiu uma <strong>enorme</strong>  duvida que era, como "diacho" eu iria ensinar um processamento tão logico e simples dentro do conhecimento humano para um computador que não possui um "cerebro" capaz de ler dados analisa-los e chegar a um resultado, sozinho sem interveção alguma, e é justamente com esse tipo de problema que se torna necessario a aplicação da <strong>logica de programação</strong> que nada mais é do que a divisão do processo em "minis 
-  processos" em sequencia para que aja um detalhamento melhor, afim de torna mais facil a comprenção do computador e assim chegar ao resultado desejado Foi aplicando esse logica 
-  que finalmente consegui transmitir os metodos da aritmtica para o projeto, atraves de estruturas de repetições. <br> 
+Logo no início da programação em JS desse projeto já surgiu uma enorme dúvida que era, como "diacho" eu iria ensinar um processamento tão lógico e simples dentro do conhecimento humano para um computador que não possui um "cérebro" capaz de ler dados analisá-los e chegar a um resultado, sozinho sem intervenção alguma, e é justamente com esse tipo de problema que se torna necessário a aplicação da lógica de programação que nada mais é do que a divisão do processo em "minis processos" em sequência para que haja um detalhamento melhor, a fim de tornar mais fácil a compreensão do computador e assim chegar ao resultado desejado Foi aplicando esse lógica que finalmente consegui transmitir os métodos da aritmética para o projeto, através de estruturas de repetições.
+  <br> 
   <br>
  </p> 
   
@@ -37,14 +31,11 @@ podem extrair dados como á media aritmetica, os maiores e menores valores acres
 ```
 Tenha instalados no seu computador:
 ```
+>Visual Studio Code &emsp; - Google Chrome
+<br> <a href="https://code.visualstudio.com//" target="_blank">&emsp; &emsp;<img src="https://user-images.githubusercontent.com/96143899/153087509-225db237-36f2-4b24-b287-6754d7195021.png" target="_blank"></a>
+    &emsp; &emsp;&emsp; &emsp;&emsp;  <a href="https://www.google.com/intl/pt-BR/chrome/" height="20" target="_blank"><img src="https://user-images.githubusercontent.com/96143899/156283144-03fd2db9-f490-444a-b11a-07067c0a7225.png" target="_blank"></a>(ou qualquer outro navegador)
 
-<a href="https://code.visualstudio.com//" target="_blank"><img src="https://user-images.githubusercontent.com/96143899/153087509-225db237-36f2-4b24-b287-6754d7195021.png" target="_blank"></a>- Visual Studio Code
-
-<a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank"><img src="https://user-images.githubusercontent.com/96143899/156283144-03fd2db9-f490-444a-b11a-07067c0a7225.png" target="_blank"></a>- Google Chrome (ou qualquer outro navegador compativel)
-
-
-
-<p aling="center" >⚠️EM PROCESSO DE CONSTRUÇÃO⚠️</p>
-
-
-
+```
+Copie o codigo utilizando:
+$ git clone <https://github.com/P4ndda/ProjetoEstatastica-site-
+```
